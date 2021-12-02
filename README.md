@@ -1,2 +1,0 @@
-# AppMAgri
-App Mobile 
